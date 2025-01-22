@@ -1,6 +1,6 @@
 ﻿# Birds-Backend-Copy
 
-This version is obsolete, new version is set to private.
+This code version is obsolete, new code version is set to private.
 
 ![Bird Generator App](./src/assets/birds.png)
 
